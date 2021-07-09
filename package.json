@@ -1,0 +1,9 @@
+{
+  "name": "template-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lifekaizen/template-js.git",
+  "author": "Eric Norman <eric@norman.zone>",
+  "license": "None",
+  "private": true
+}

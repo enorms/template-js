@@ -1,8 +1,15 @@
-# What is it
+# Features
 
-A starter folder by launguage so VS Code just works the way I want it to.
+- Use prettier with file for GitHub action
+- Use Yarn v2
 
+# Getting started
+
+- `yarn install`
+- Optional: Update `package.json`
 
 # Usage
 
-Just copy and rename the folder to your project.
+https://yarnpkg.com/getting-started/usage
+
+`yarn add [package] --dev`
