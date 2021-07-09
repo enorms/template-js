@@ -5,8 +5,12 @@
 
 # Getting started
 
-- `yarn install`
-- Optional: Update `package.json`
+- Create a new repo on github.com from this template:
+
+  `gh repo create [org-name/]{repo-name} -d "{description}" --template {template-repo}`
+
+* `yarn install`
+* Optional: Update `package.json`
 
 # Usage
 
